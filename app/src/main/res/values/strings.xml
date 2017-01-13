@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">WiFriends</string>
+    <string name="action_settings">Settings</string>
+    <string name="action_about">About WiFriends</string>
+    <string name="title_activity_check_wifi_network">CheckWifiNetworkActivity</string>
+    <string name="contact">Search contact</string>
+    <string name="connections">Your Connections on WiFriends</string>
+    <string name="myFriendsTitle">My Friends</string>
+    <string name="searchFriend">Search Friend...</string>
+    <string name="facebook_app_id">474328969422256</string>
+    <string name="drawer_open">Open navigation</string>
+    <string name="drawer_close">Close navigation</string>
+
+    <string name="title_activity_home">Home</string>
+    <string name="title_activity_my_friends">My Friends</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="btnAddNetwork">Add Network</string>
+    <string name="btnSaveNetwork">Save Network</string>
+    <string name="btnModifyNetwork">Modify Network</string>
+    <string name="btnUpdateNetwork">Update</string>
+    <string name="btnAddFriends">Add Friends</string>
+    <string name="btnMyFriends">My Friends</string>
+
+    <string name="hint_wireless_ssid">Wireless SSID</string>
+    <string name="hint_wireless_pwd">Wireless Password</string>
+
+    <string name="tvNoFriendsToShow">You have no Friends to Show !!</string>
+    <string name="search_friends_title">Search Friends on WiFriends</string>
+    <string name="title_activity_view_wifi">Available Network</string>
+    <string name="title_activity_about">About</string>
+
+
+</resources>
